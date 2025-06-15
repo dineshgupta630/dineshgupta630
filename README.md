@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dinesh Gupta
 
-**Senior Software Engineer at FanDuel**
+**Senior Software Engineer at FanDuel, United Kingdom**
 
 ---
 
