@@ -15,10 +15,10 @@ I thrive on introducing new technologies, championing best practices, and nurtur
 ## 🔧 Technologies
 
 - **Proficient:**  
-  Python, JavaScript / TypeScript (Node.js, React), AWS, SQL, Kubernetes, Microservices, REST, Socket.IO, RabbitMQ, Bash / Zsh, Git / GitHub, CI/CD (Travis CI, Jenkins), and more.
+  Python, JavaScript/TypeScript (Node.js, Angular), AWS, SQL, Kubernetes, Microservices, REST, Socket.IO, RabbitMQ, Bash / Zsh, Git / GitHub, CI/CD (Travis CI, Jenkins), and more.
 
 - **Currently exploring:**  
-  Java, GraphQL, TensorFlow, Machine Learning, and Neural Networks.
+  Java, React, GraphQL, TensorFlow, Machine Learning, and Neural Networks.
 
 ---
 
