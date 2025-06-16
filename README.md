@@ -15,10 +15,10 @@ I thrive on introducing new technologies, championing best practices, and nurtur
 ## 🔧 Technologies
 
 - **Proficient:**  
-  Python, Java, JavaScript / TypeScript (Node.js, React), AWS, SQL, Kubernetes, Microservices, REST, Socket.IO, RabbitMQ, Bash / Zsh, Git / GitHub, CI/CD (Travis CI, Jenkins), and more.
+  Python, JavaScript / TypeScript (Node.js, React), AWS, SQL, Kubernetes, Microservices, REST, Socket.IO, RabbitMQ, Bash / Zsh, Git / GitHub, CI/CD (Travis CI, Jenkins), and more.
 
 - **Currently exploring:**  
-  GraphQL, TensorFlow, Machine Learning, and Neural Networks.
+  Java, GraphQL, TensorFlow, Machine Learning, and Neural Networks.
 
 ---
 
@@ -42,5 +42,3 @@ I thrive on introducing new technologies, championing best practices, and nurtur
 [![Twitter](https://img.shields.io/badge/-@dineshgupta630-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/dineshgupta630)](https://twitter.com/dineshgupta630)
 
 ---
-
-### 🤝 Let's collaborate, learn, and build something amazing together!
